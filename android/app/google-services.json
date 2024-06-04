@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019558953300",
+    "project_id": "interface-exp",
+    "storage_bucket": "interface-exp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019558953300:android:7c20dcdea2a65f40d248c1",
+        "android_client_info": {
+          "package_name": "com.aa.i"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgBt88jIxdayAHPs_Q4zFPlroo3YhpljE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
